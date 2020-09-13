@@ -15,7 +15,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "simonphumin/rpi-433": "^2.1.0",
+    "rpi-433": "simonphumin/rpi-433",
     "wiring-pi": "^2.2.0"
   },
   "engines": {
