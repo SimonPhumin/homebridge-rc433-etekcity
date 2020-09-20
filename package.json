@@ -16,7 +16,7 @@
   "devDependencies": {},
   "dependencies": {
     "rpi-433": "simonphumin/rpi-433",
-    "wiring-pi": "WiringPi/WiringPi"
+    "wiring-pi": "wiringpi/wiringpi"
   },
   "engines": {
     "node": ">=6.9.2",
