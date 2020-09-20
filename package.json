@@ -19,8 +19,8 @@
     "wiring-pi": "wiringpi/wiringpi"
   },
   "engines": {
-    "node": ">=6.9.2",
-    "homebridge": ">=0.2.0"
+    "node": ">=12.18.4 <14",
+    "homebridge": ">=1.2.2"
   },
   "keywords": [
     "rcswitch",
